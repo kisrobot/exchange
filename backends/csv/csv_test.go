@@ -8,12 +8,12 @@ import (
 	"strconv"
 	"testing"
 
-	"github.com/qor/exchange"
-	csv_adaptor "github.com/qor/exchange/backends/csv"
-	"github.com/qor/exchange/tests"
-	"github.com/qor/qor"
-	"github.com/qor/qor/resource"
-	"github.com/qor/qor/test/utils"
+	"github.com/kisrobot/exchange"
+	csv_adaptor "github.com/kisrobot/exchange/backends/csv"
+	"github.com/kisrobot/exchange/tests"
+	"github.com/kisrobot/qor"
+	"github.com/kisrobot/qor/resource"
+	"github.com/kisrobot/qor/test/utils"
 )
 
 var db = utils.TestDB()

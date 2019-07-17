@@ -5,9 +5,9 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/qor/exchange"
-	"github.com/qor/qor"
-	"github.com/qor/qor/resource"
+	"github.com/kisrobot/exchange"
+	"github.com/kisrobot/qor"
+	"github.com/kisrobot/qor/resource"
 )
 
 // NewReader new csv reader

@@ -3,9 +3,9 @@ package exchange
 import (
 	"reflect"
 
-	"github.com/qor/qor"
-	"github.com/qor/qor/resource"
-	"github.com/qor/roles"
+	"github.com/kisrobot/qor"
+	"github.com/kisrobot/qor/resource"
+	"github.com/kisrobot/roles"
 )
 
 // Meta defines importable/exportable fields

@@ -1,8 +1,8 @@
 package tests
 
 import (
-	"github.com/qor/exchange"
-	"github.com/qor/qor/test/utils"
+	"github.com/kisrobot/exchange"
+	"github.com/kisrobot/qor/test/utils"
 )
 
 var (

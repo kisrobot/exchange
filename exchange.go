@@ -5,10 +5,10 @@ import (
 	"reflect"
 
 	"github.com/jinzhu/gorm"
-	"github.com/qor/qor"
-	"github.com/qor/qor/resource"
-	"github.com/qor/roles"
-	"github.com/qor/validations"
+	"github.com/kisrobot/qor"
+	"github.com/kisrobot/qor/resource"
+	"github.com/kisrobot/roles"
+	"github.com/kisrobot/validations"
 )
 
 // Resource defined an exchange resource, which includes importing/exporting fields definitions

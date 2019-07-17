@@ -1,6 +1,6 @@
 package exchange
 
-import "github.com/qor/qor"
+import "github.com/kisrobot/qor"
 
 // Progress defined importing/exporting progress
 type Progress struct {
